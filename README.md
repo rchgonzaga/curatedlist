@@ -3,7 +3,7 @@ This is just a curated list where I'll try do organize by category, all the rele
 you can use as inspiration, exemple and even contribute. 
 
 ## About the list
----
+
 This list will be based on my onw opinion, taking into account all the discovery that I do every day, trying to find a good project.
 
 Feel free to email-me: rchgonzag@gmail.com
